@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Java RMI Exception
-subtitle:   notes
+subtitle:   exception solved
 date:       2019-11-20
 author:     SHR
 header-img: 
@@ -11,7 +11,6 @@ tags:
     - Exception
 ---
 # Java RMI Exception
-
 
 - java.rmi.ConnectException
 
